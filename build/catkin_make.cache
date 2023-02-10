@@ -1,0 +1,2 @@
+fly_bot
+-DCATKIN_DEVEL_PREFIX=/root/danger_ws/devel -DCMAKE_INSTALL_PREFIX=/root/danger_ws/install -G Unix Makefiles
